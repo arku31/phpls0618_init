@@ -5,3 +5,5 @@ Privet
 
 
 Privet
+
+Ctrl+K
