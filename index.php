@@ -6,4 +6,6 @@ Privet
 
 Privet
 
-Ctrl+K
+Ctrl+K //git add . + git commit -m 'message'
+
+Ctrl+Shift+K //git push
